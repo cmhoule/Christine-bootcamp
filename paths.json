@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/Christine-bootcamp/:/",
+    "/content/Christine-bootcamp/configuration:/.helix/config.json",
+    "/content/Christine-bootcamp/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/Christine-bootcamp/"
   ]
 }
